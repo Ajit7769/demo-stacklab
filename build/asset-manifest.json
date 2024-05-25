@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Ajit7769/stacklab.git/static/css/main.66c342ae.css",
+    "main.js": "/Ajit7769/stacklab.git/static/js/main.be4acfac.js",
+    "index.html": "/Ajit7769/stacklab.git/index.html",
+    "main.66c342ae.css.map": "/Ajit7769/stacklab.git/static/css/main.66c342ae.css.map",
+    "main.be4acfac.js.map": "/Ajit7769/stacklab.git/static/js/main.be4acfac.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.66c342ae.css",
+    "static/js/main.be4acfac.js"
+  ]
+}
