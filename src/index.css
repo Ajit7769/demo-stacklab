@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer{
+    body{
+        background: rgb(32,154,245);
+background: linear-gradient(90deg, rgb(205, 233, 255) 31%, rgba(69,149,252,1) 89%);
+    }
+    .profile{
+        margin-top: -230px;
+        clip-path: polygon(30% 0%, 70% 0%, 100% 30%, 100% 70%, 70% 100%, 30% 100%, 0% 70%, 0% 30%); 
+        /* background-image: url("../public/Images/header.jpg"); */
+        z-index: 100;
+        border: 2px solid white;
+        box-sizing: border-box;
+    }
+   
+}
